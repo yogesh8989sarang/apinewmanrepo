@@ -1,5 +1,6 @@
 import pandas as pd
 import psycopg2
+import streamlit
 
 # Read the file data into a DataFrame
 file_path = 'C:/Users/ashish.kshirsagar/Downloads/1000-Sales-Records/1000 Sales Records.csv'  # Replace with your file path
